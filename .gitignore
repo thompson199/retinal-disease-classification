@@ -1,3 +1,7 @@
+# Ignore data files due to large size and Git repo constraints
+data/*.zip
+data/*/
+
 # MacOS Files
 .DS_Store
 
