@@ -4,6 +4,7 @@ data/*/
 
 # MacOS Files
 .DS_Store
+.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
